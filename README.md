@@ -16,8 +16,8 @@
 # :information_source:  Sobre mi! :information_source: #
 
 * :mortar_board: Estudio acutalemte en el ITT en el 8vo semestre de la carrera de Ing en TIC.
-* Tengo 22 años.
-* No laboro actualemnte pero hago reparaciones, mantenimiento y asesoramiento de equipos electronicos , electricos, de computo, de musica entre otros.
+* :bust_in_silhouette: Tengo 22 años.
+* :iphone::guitar: No laboro actualemnte pero hago reparaciones, mantenimiento y asesoramiento de equipos electronicos , electricos, de computo, de musica entre otros.
 * Me encanta tocar la guitarra y dibujar a papel.
 * Me gustan mucho los videojuegos y pasar el rato en mis tiempos libres jugando o viendo peliculas.
 * Tambien soy creador de contenido tipo podcast con mis amigos.
