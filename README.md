@@ -15,7 +15,7 @@
 
 # :information_source:  Sobre mi! :information_source: #
 
-* Estudio acutalemte en el ITT en el 8vo semestre de la carrera de Ing en TIC.
+* :mortar_board: Estudio acutalemte en el ITT en el 8vo semestre de la carrera de Ing en TIC.
 * Tengo 22 años.
 * No laboro actualemnte pero hago reparaciones, mantenimiento y asesoramiento de equipos electronicos , electricos, de computo, de musica entre otros.
 * Me encanta tocar la guitarra y dibujar a papel.
