@@ -13,13 +13,13 @@
 
 -**Carrera:** Ing. TIC
 
-# :information_source:  Sobre mi! :information_source: #
+# :bow:  Sobre mi! :bow:: #
 
 * :mortar_board: Estudio acutalemte en el ITT en el 8vo semestre de la carrera de Ing en TIC.
 * :bust_in_silhouette: Tengo 22 años.
 * :iphone::guitar: No laboro actualemnte pero hago reparaciones, mantenimiento y asesoramiento de equipos electronicos , electricos, de computo, de musica entre otros.
 * :guitar::art: Me encanta tocar la guitarra y dibujar a papel.
-* :video_game::clapper: Me gustan mucho los videojuegos y pasar el rato en mis tiempos libres jugando o viendo peliculas.
+* :space_invader::video_game::clapper: Me gustan mucho los videojuegos y pasar el rato en mis tiempos libres jugando o viendo peliculas.
 * :movie_camera::globe_with_meridians: Tambien soy creador de contenido tipo podcast con mis amigos.
 
   
