@@ -35,6 +35,14 @@
 * :movie_camera::globe_with_meridians: Tambien soy creador de contenido tipo podcast con mis amigos.
 <br>
 
+
+# :mailbox: Contacto: :mailbox: 
+
+* :envelope:Email: javier.chavez17@tectijuana.edu.mx
+*
+
+<br>
+
 # Mi podcast: 
 
 El Error de opinar es un Podcast entre amigos, es el santuario donde la ignorancia y el desconocimiento inundan la sala con opiniones mundanas, poco sustentadas, sobre películas elegidas con base en los traumas almacenados en el baúl de nuestras memorias. 
@@ -75,7 +83,6 @@ Plataformas:
 <br>
 
 
-# :mailbox: Contacto: :mailbox: 
 
   
 
