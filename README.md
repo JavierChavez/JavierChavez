@@ -16,14 +16,13 @@
 | Hora | Lunes                                   | Martes                                  | Miercoles                               | Jueves                                  | Viernes                                 |
 |------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
 | 2 PM | Administración y <br>seguridad de redes | Administración y <br>seguridad de redes | Administración y <br>seguridad de redes | Administración y <br>seguridad de redes | Administración y <br>seguridad de redes |
-| 3 PM | Ingenieria del conocimiento             | Ingenieria del conocimiento             | Ingenieria del conocimiento             | Ingenieria del conocimiento             | Ingenieria del conocimiento             |
-| 4 PM |            Patrones de diseño           |            Patrones de diseño           |            Patrones de diseño           |            Patrones de diseño           |                                         |
+| 3 PM | Ingenieria del conocimiento             | Ingenieria del conocimiento             | Ingenieria del conocimiento             | Ingenieria del conocimiento             |                                         |
+| 4 PM |            Patrones de diseño           |            Patrones de diseño           |            Patrones de diseño           |            Patrones de diseño           |            Patrones de diseño           |
 | 5 PM |           Diseño de Interfaces          |           Diseño de Interfaces          |           Diseño de Interfaces          |           Diseño de Interfaces          |           Diseño de Interfaces          |
 | 6 PM |         Negocios electrónicos 2         |         Negocios electrónicos 2         |         Negocios electrónicos 2         |         Negocios electrónicos 2         |                                         |
 | 7 PM |    Analisis Avanzado<br> de software    |    Analisis Avanzado<br> de software    |    Analisis Avanzado<br> de software    |    Analisis Avanzado<br> de software    |    Analisis Avanzado<br> de software    |
 | 8 PM |             Auditoria en TIC            |             Auditoria en TIC            |             Auditoria en TIC            |             Auditoria en TIC            |                                         |
-
-
+<br>
 # :bow:  Sobre mi! :bow: #
 
 * :mortar_board: Estudio acutalemte en el ITT en el 8vo semestre de la carrera de Ing en TIC.
