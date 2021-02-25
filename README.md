@@ -82,7 +82,12 @@ Plataformas:
 
 <br>
 
+► Contactanos en: 
+:envelope:Correo: elerrordeopinar@gmail.com
 
+<br>
+
+<br>
 
   
 
