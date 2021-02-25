@@ -47,8 +47,6 @@ Redes:
 
 <br>
 
-<a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
-
 [►Síguenos en nuestro Facebook](https://www.facebook.com/El-Error-de-Opinar-221984055884107)
 
 <br>
@@ -58,6 +56,9 @@ Redes:
 <br>
 
 Plataformas:
+<br>
+
+[►Síguenos en Youtube](https://www.youtube.com/channel/UC8Ed08zeQkWjCK7pc2zXuTw)
 
 <br>
 
