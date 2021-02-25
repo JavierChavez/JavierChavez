@@ -36,10 +36,14 @@
 <br>
 
 # Mi podcast: 
+
 El Error de opinar es un Podcast entre amigos, es el santuario donde la ignorancia y el desconocimiento inundan la sala con opiniones mundanas, poco sustentadas, sobre películas elegidas con base en los traumas almacenados en el baúl de nuestras memorias. 
 
+![](https://github.com/JavierChavez/JavierChavez/blob/main/logo%20el%20error.png?raw=true)
 
 <br>
+
+
 # :mailbox: Contacto: :mailbox: 
 
   
