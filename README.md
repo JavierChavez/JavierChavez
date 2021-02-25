@@ -12,7 +12,9 @@
 -**Número de control:** 17212918
 
 -**Carrera:** Ing. TIC
+
 -**Mi Horario:**
+
 | Hora | Lunes                                   | Martes                                  | Miercoles                               | Jueves                                  | Viernes                                 |
 |------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
 | 2 PM | Administración y <br>seguridad de redes | Administración y <br>seguridad de redes | Administración y <br>seguridad de redes | Administración y <br>seguridad de redes | Administración y <br>seguridad de redes |
@@ -39,7 +41,7 @@
 # :mailbox: Contacto: :mailbox: 
 
 * :envelope:Email: javier.chavez17@tectijuana.edu.mx
-*
+
 
 <br>
 
