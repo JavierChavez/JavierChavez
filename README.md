@@ -22,7 +22,9 @@
 | 6 PM |         Negocios electrónicos 2         |         Negocios electrónicos 2         |         Negocios electrónicos 2         |         Negocios electrónicos 2         |                                         |
 | 7 PM |    Analisis Avanzado<br> de software    |    Analisis Avanzado<br> de software    |    Analisis Avanzado<br> de software    |    Analisis Avanzado<br> de software    |    Analisis Avanzado<br> de software    |
 | 8 PM |             Auditoria en TIC            |             Auditoria en TIC            |             Auditoria en TIC            |             Auditoria en TIC            |                                         |
+
 <br>
+
 # :bow:  Sobre mi! :bow: #
 
 * :mortar_board: Estudio acutalemte en el ITT en el 8vo semestre de la carrera de Ing en TIC.
