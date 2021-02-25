@@ -44,14 +44,14 @@ El Error de opinar es un Podcast entre amigos, es el santuario donde la ignoranc
 Puedes encontrarnos en todas nuestras plataformas!!
 
 Redes:
-[►Síguenos en nuestro Facebook:](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0dRdlNwWFhVQ0ZJVDg5eEtoM1BUam9tSFFBQXxBQ3Jtc0trSGl5UWI1ZlI1dlV6YmtPNDNXQThycDc5V2dKS2ZaV1o5cFZEZXhCQ2psODJVWnpNU3Y0YVA1aV92dEUtWXhiT0EwV3plRm13YUUyYmcxMGpYM2duZE8yQkRkaDFHLWNVWGJ2U0tJZUhYRzJZVmVEbw&q=https%3A%2F%2Fwww.facebook.com%2FEl-Error-de-Opinar-221984055884107)
-►Síguenos en nuestro Facebook: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0dRdlNwWFhVQ0ZJVDg5eEtoM1BUam9tSFFBQXxBQ3Jtc0trSGl5UWI1ZlI1dlV6YmtPNDNXQThycDc5V2dKS2ZaV1o5cFZEZXhCQ2psODJVWnpNU3Y0YVA1aV92dEUtWXhiT0EwV3plRm13YUUyYmcxMGpYM2duZE8yQkRkaDFHLWNVWGJ2U0tJZUhYRzJZVmVEbw&q=https%3A%2F%2Fwww.facebook.com%2FEl-Error-de-Opinar-221984055884107
-► Síguenos en nuestro Instagram: https://www.instagram.com/el_error_de...​
+[►Síguenos en nuestro Facebook](https://www.facebook.com/El-Error-de-Opinar-221984055884107)
+
+[►Síguenos en nuestro Instagram](https://www.instagram.com/el_error_de_opinar/)
 
 Plataformas:
-►Síguenos en nuestro Spotify: https://spoti.fi/3489SR8​ 
-►Síguenos en Apple Podcast: https://podcasts.apple.com/mx/podcast...​
-►Síguenos en Google Podcast: https://podcasts.google.com/feed/aHR0...
+[►Síguenos en nuestro Spotify](https://open.spotify.com/user/tzxwpmjrpw2rss9ybqclodw0i)
+[►Síguenos en Apple Podcast](https://podcasts.apple.com/mx/podcast/el-error-de-opinar/id1529803930?fbclid=IwAR2XQP_8ZZO0sfvjw3Di6jLgERO8CvEMcdyhAgHjzEx7JrJIhgcAUF9m5U0)
+[►Síguenos en Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuaXZvb3guY29tL3BvZGNhc3QtZXJyb3Itb3BpbmFyX2ZnX2YxMTAyNDM1MV9maWx0cm9fMS54bWw)
 
 <br>
 
