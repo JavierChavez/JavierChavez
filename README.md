@@ -44,13 +44,29 @@ El Error de opinar es un Podcast entre amigos, es el santuario donde la ignoranc
 Puedes encontrarnos en todas nuestras plataformas!!
 
 Redes:
+
+<br>
+
 [►Síguenos en nuestro Facebook](https://www.facebook.com/El-Error-de-Opinar-221984055884107)
+
+<br>
 
 [►Síguenos en nuestro Instagram](https://www.instagram.com/el_error_de_opinar/)
 
+<br>
+
 Plataformas:
+
+<br>
+
 [►Síguenos en nuestro Spotify](https://open.spotify.com/user/tzxwpmjrpw2rss9ybqclodw0i)
+
+<br>
+
 [►Síguenos en Apple Podcast](https://podcasts.apple.com/mx/podcast/el-error-de-opinar/id1529803930?fbclid=IwAR2XQP_8ZZO0sfvjw3Di6jLgERO8CvEMcdyhAgHjzEx7JrJIhgcAUF9m5U0)
+
+<br>
+
 [►Síguenos en Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuaXZvb3guY29tL3BvZGNhc3QtZXJyb3Itb3BpbmFyX2ZnX2YxMTAyNDM1MV9maWx0cm9fMS54bWw)
 
 <br>
