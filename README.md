@@ -2,6 +2,10 @@
 # ![](https://images.cooltext.com/5508535.png)
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
+<p> 
+<img src="https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Img/TECNOLOGIAS-DE-LA-INFORMACION-Y-COMUNICACIONES_HEADING1-2048x672.png?raw=true" align="right"> 
+</p>
+
 ![](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Img/TECNOLOGIAS-DE-LA-INFORMACION-Y-COMUNICACIONES_HEADING1-2048x672.png?raw=true)
 
 
