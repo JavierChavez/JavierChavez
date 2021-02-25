@@ -47,7 +47,8 @@ Redes:
 
 <br>
 
-<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+
 [►Síguenos en nuestro Facebook](https://www.facebook.com/El-Error-de-Opinar-221984055884107)
 
 <br>
